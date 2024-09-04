@@ -1,0 +1,26 @@
+@media (max-width: 992px) {
+    .responsive-h1 {
+      top: 5%;   /* Adjust position */
+      font-size: 1.5rem; /* Adjust font size */
+    }
+  }
+  
+  /* Small screens (phones, 768px and down) */
+  @media (max-width: 768px) {
+    .rresponsive-h1 {
+      top: 5%;   /* Further adjust position */
+      font-size: 1rem; /* Adjust font size */
+    }
+  }
+  
+  /* Extra small screens (phones, 576px and down) */
+  @media (max-width: 576px) {
+    .responsive-h1 {
+      top: 5%;    /* Adjust position for smaller screens */
+      font-size: 0.5rem; /* Adjust font size */
+    }
+  }
+
+.responsive-h1{
+    font-size: xx-small;
+}
